@@ -1,2 +1,2 @@
-# Project-Chaos
-(Working title) Project Chaos is the variant of QuantuMiz modpack aims to provide feature-rich Vanilla Minecraft experience.
+# Project Pixie (working title)
+(Working title) Project Pixie (A.K.A Project Chaos) is the upcoming new QuantuMiz project aims to defy the limitation of features present in Vanilla minecraft, while retaining the original Vanilla Minecraft experience.
