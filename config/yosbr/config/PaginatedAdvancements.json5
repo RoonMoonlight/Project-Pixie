@@ -1,0 +1,6 @@
+{
+    "ShowAdvancementIDInDebugTooltip":false,
+    "ShowDebugInfo":"ALWAYS",
+    "MaxCriterionEntries":6,
+    "FadeOutBackgroundOnAdvancementHover":false,
+}
