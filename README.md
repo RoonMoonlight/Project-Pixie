@@ -1,8 +1,8 @@
 > [!note]
-> **For all releases and issue trackers, for QuantuMiz series, please head to [main repository](https://github.com/RoonMoonlight/QuantuMiz).**
+> **For all releases and issue trackers, for QuantuMiz series, please head to [main repository](https://github.com/QuantuMiz/QuantuMiz).**
 
 > [!warning]
->You are looking at 1.20.x Extended Support Release branch. Looking for the latest branch of QuantuMiz? [Go back to main branch.](https://github.com/RoonMoonlight/QuantuMiz-EX)
+>You are looking at 1.20.x Camellia branch. Looking for the latest branch of QuantuMiz? [Go back to main branch.](https://github.com/QuantuMiz/QuantuMiz-EX)
 
 <!-- TITLE -->
 <p align="center">
@@ -12,9 +12,9 @@
     <br />
     <a href="https://modrinth.com/modpack/quantumiz-ex/versions">Download</a>
     ·
-    <a href="https://github.com/RoonMoonlight/QuantuMiz/issues">Issue Tracker</a>
+    <a href="https://github.com/QuantuMiz/QuantuMiz/issues">Issue Tracker</a>
     ·
-    <a href="https://github.com/RoonMoonlight/QuantuMiz-EX">Source Code</a>
+    <a href="https://github.com/QuantuMiz/QuantuMiz-EX">Source Code</a>
   </p>
 </p>
 
@@ -23,7 +23,7 @@
 ***QuantuMiz EX*** is the third deriative of QuantuMiz project aiming to improve Vanilla minecraft with Quality-of-Life feature improvements and fixes, as well as optimizations.
 
 ## Changelog
-See [here](https://github.com/RoonMoonlight/QuantuMiz/releases).
+See [here](https://github.com/QuantuMiz/QuantuMiz/releases).
 
 ## Features
 * Focused on optimizing the game and improving the Vanilla Minecraft experiences by overhauling UI/Features!
@@ -75,7 +75,7 @@ Some of mods featured here can be configured on Mod Menu.
 ## Disclaimer!
 By using this modpack, you agree to the following:
 * Due to nature of the modpack, some servers forbids the use of certain mods (e.g. Controlify). Therefore it is NOT recommended to play any of the community server with this modpack. Most ideal way is by playing singleplayer (or with LAN) or hosting your own community server with this modpack enabled.
-* **Our project is ONLY distributed on RoonMoonlight GitHub repository and Modrinth.** Please refrain from downloading from other sources as they might include malware and they are not distributed by myself.
+* **Our project is ONLY distributed on QuantuMiz GitHub repository and Modrinth.** Please refrain from downloading from other sources as they might include malware and they are not distributed by myself.
 * For your safety and privacy concerns, our modpack includes 'No Chat Report' mod to disable chat reporting added on 1.19.1 release. Please note you may not join some of servers with chat signing enforced. In that case, please contact the server owner to disable chat signing enforced setting by providing reasonable explanation. Read this article for more details: [#SaveMinecraft: The truth and controversy behind Minecraft's new Player Reporting update](https://www.windowscentral.com/gaming/minecraft/saveminecraft-the-truth-and-controversy-behind-minecrafts-new-player-reporting)
 * You may freely fork and remix this project. However to prevent any confusion, please refrain from using our 'QuantuMiz' name and logo on your fork and remix.
 
